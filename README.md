@@ -1,6 +1,6 @@
 # [nunocoracao.github.com](https://nunocoracao.github.com)
 
-[![Deploy Production](https://github.com/nunocoracao/homepage/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/nunocoracao/homepage/actions/workflows/firebase-hosting-merge.yml) [![Deploy Preview](https://github.com/nunocoracao/homepage/actions/workflows/firebase-hosting-pull-request.yml/badge.svg?branch=dev&event=pull_request)](https://github.com/nunocoracao/homepage/actions/workflows/firebase-hosting-pull-request.yml)
+[![Deploy to github pages](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml/badge.svg)](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml)
 
 *Original site at [nunocoracao.com](https://nunocoracao.com)*
 
