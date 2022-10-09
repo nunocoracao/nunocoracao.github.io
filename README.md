@@ -2,7 +2,7 @@
 
 [![Deploy to github pages](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml/badge.svg)](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml)
 
-*Original site at [nunocoracao.com](https://nunocoracao.com)*
+*This is a secondary repo to deploy my homepage to Github. Original site at [nunocoracao.com](https://nunocoracao.com) repo at [github.com/nunocoracao/nunocoracao.com](https://github.com/nunocoracao/nunocoracao.com)*
 
 Repo for my personal homepage with everything I've been up to, and where I write about stuff I am interested in. Decided to make this repo public so that people can suggest edits to articles using github.
 
