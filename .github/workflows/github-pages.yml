@@ -3,9 +3,8 @@ name: Deploy to github pages
 
 on:
   # Runs on pushes targeting the default branch
-  on:
-    schedule:
-      - cron: '32 * * * *'
+  repository_dispatch:
+    types: [main-deploy-event]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
