@@ -1,4 +1,4 @@
-# [nunocoracao.github.com](https://nunocoracao.github.com)
+# [nunocoracao.github.io](https://nunocoracao.github.io)
 
 [![Deploy to github pages](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml/badge.svg)](https://github.com/nunocoracao/nunocoracao.github.com/actions/workflows/github-pages.yml)
 
